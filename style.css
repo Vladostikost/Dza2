@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background: rgb(115, 118, 122);
+}
+
+.fonk{
+    width: 150px;
+    height: 150px;
+    border: 3px solid aqua;
+    background: white;
+    border-radius: 21px;
+    margin-top: 29px;
+    margin-bottom: 29px;
+    margin-left: 562px;
+}
+
+#bt{
+    margin-left: 95px;
+    transform: translateX(250px);
+    width: 75px;
+    height: 30px;
+    background-color: aqua;
+    border: none;
+    border-radius: 21px;
+}
